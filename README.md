@@ -1,8 +1,6 @@
 # HEY, NICE TO MEET YOU!
 ## Welcome to my GitHub profile, My name is Gabriel, I am a computer technician graduated from the Federal Institute of São Paulo (IFSP) and currently studying Computer Science at UNICAMP.
 
-<br>
-
 ### HERE YOU WILL FIND SOME OF THE PERSONAL AND ACADEMIC PROJECTS THAT I HAVE BEEN WORKING ON: 
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Dias-Oliveira)
