@@ -22,4 +22,4 @@
 ### ADDITIONAL INFORMATION:
 * :brazil: FALANTE DE PORTUGUÊS NATIVO.
 * :us: INTERMEDIARY ENGLISH.
-* :ceuta_melilla: ESPAÑOL BASICO. 
+* :ceuta_melilla: ESPAÑOL BÁSICO. 
